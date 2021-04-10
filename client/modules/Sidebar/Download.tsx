@@ -20,8 +20,8 @@ function Download(props: DownloadProps) {
                     <p className={Common.title}>Android</p>
                     <div className={Style.android}>
                         <p>点击链接或者扫码下载APK</p>
-                        <a href={`https://cdn.suisuijiang.com/fiora.apk?v=${Date.now()}`} download>
-                            https://cdn.suisuijiang.com/fiora.apk
+                        <a href={`https://cdn.suisuijiang1.com/fiora.apk?v=${Date.now()}`} download>
+                            https://cdn.suisuijiang1.com/fiora.apk
                         </a>
                         <br />
                         <img
