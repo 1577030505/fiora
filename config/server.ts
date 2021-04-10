@@ -37,7 +37,7 @@ export default {
         : 1000 * 60 * 60 * 24 * 30,
 
     // administrator user id
-    administrator: env.Administrator ? env.Administrator.split(',') : [],
+    administrator: env.Administrator ? env.Administrator.split(',') : ['moefree'],
 
     /** 禁用注册功能 */
     disableRegister: env.DisableRegister ? env.DisableRegister === 'true' : false,
