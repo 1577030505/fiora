@@ -31,11 +31,11 @@ function About(props: AboutProps) {
                     <p className={Common.title}>如何搭建</p>
                     <span className={styles.linkLabel}>(官方) </span>
                     <a
-                        href="https://yinxin630.github.io/fiora/zh-Hans/"
+                        href="https://yinxin630.github1.io/fiora/zh-Hans/"
                         target="_black"
                         rel="noopener noreferrer"
                     >
-                        https://yinxin630.github.io/fiora/zh-Hans/
+                        https://yinxin630.github1.io/fiora/zh-Hans/
                     </a>
                     <br />
                     <span className={styles.linkLabel}>(第三方, 宝塔) </span>
@@ -79,7 +79,7 @@ function About(props: AboutProps) {
                     <ul>
                         <li>
                             <a
-                                href="https://wangyaxing.cn/"
+                                href="http://dousmlie.cn/"
                                 target="_black"
                                 rel="noopener noreferrer"
                             >
